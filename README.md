@@ -1,8 +1,8 @@
 # jpa02-rileychou
 
-Repo: https://ucsb-cs156-s24/jpa02-rileychou
+Repo: https://github.com/ucsb-cs156-s24/jpa02-rileychou
 
-Deployed at: https://jpa02-rileychou.dokku-13.cs.ucsb.edu
+Deployed at: http://jpa02-rileychou.dokku-13.cs.ucsb.edu
 
 # About this repo
 
